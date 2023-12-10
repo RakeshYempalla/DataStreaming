@@ -9,7 +9,7 @@ p = Producer({
 })
 
 # Directory where the .csv files are located
-data_directory = '/home/voohitha/Downloads/TPC-H-V3.0.1/dbgen'
+data_directory = '/home/rakesh/Downloads/TPC-H-V3.0.1/dbgen'
 
 # List of TPC-H data files to publish
 tpch_data_files = [
